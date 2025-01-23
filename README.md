@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Anna!
+
+## About Me
+- 🎓 Computer Science student at Oles Honchar Dnipro National University
+- 🌍 Based in Dnipro, Ukraine
+- 👩‍💻 Currently learning Python and Data Science
+- 🌱 Growing my skills in Machine Learning and AI
+
+## What I'm focusing on
+- 📚 Deep diving into Python
+- 🤖 Learning ML basics
+- 📊 Working with data analysis tools
+- 🔍 Exploring web development
+
+## Skills
+- Python
+- SQL basics
+- Data Analysis
+- Git
+
+## Currently Learning
+- Django
+- NumPy & Pandas
+- Machine Learning fundamentals
+- Web Development basics
 
 <!--
-**harbuzannadev/harbuzannadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fun fact: I love combining tech with creative problem-solving! 🎨
 -->
